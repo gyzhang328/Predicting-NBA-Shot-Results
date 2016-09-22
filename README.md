@@ -1,4 +1,4 @@
-# Predicting-NBA-Shot-Results
+# Predicting NBA Shot Results
 
 A General Assembly Capstone Project (also my own hooby project) - to conduct analysis on NBA shots taken from 2014-2015 regular season. Using different machine learning model, I seek to predict the shot results.
 
@@ -24,7 +24,7 @@ Code used in this project - Python.
 
 ## For details on the project, refer to the following:
 
-[Presentation and Summary](https://github.com/gyzhang328/Predicting-NBA-Shot-Results/blob/master/Presentation.pdf)
+[Presentation](https://github.com/gyzhang328/Predicting-NBA-Shot-Results/blob/master/Presentation.pdf)
 
 [EDA Python notebook](https://github.com/gyzhang328/Predicting-NBA-Shot-Results/blob/master/EDA%20code.ipynb)
 
