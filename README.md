@@ -24,6 +24,9 @@ Code used in this project - Python.
 
 ## For details on the project, refer to the following:
 
+[Presentation and Summary](https://github.com/gyzhang328/Predicting-NBA-Shot-Results/blob/master/Presentation.pdf)
 
+[EDA Python notebook](https://github.com/gyzhang328/Predicting-NBA-Shot-Results/blob/master/EDA%20code.ipynb)
 
+[Modeling Python notebook](https://github.com/gyzhang328/Predicting-NBA-Shot-Results/blob/master/Modeling%20Code.ipynb)
 
